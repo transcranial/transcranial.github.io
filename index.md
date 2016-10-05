@@ -4,7 +4,7 @@ layout: default
 
 ## MD.ai
 
-I'm co-founder and CEO of <a href="https://md.ai">MD.ai</a>. Our mission is to help improve medicine through AI.
+I'm co-founder and CEO of <a href="http://md.ai">MD.ai</a>. Our mission is to help improve medicine through AI.
 
 ## About
 
