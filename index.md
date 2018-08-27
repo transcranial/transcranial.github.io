@@ -4,13 +4,13 @@ layout: default
 
 ## MD.ai
 
-I'm co-founder and CEO of <a href="http://md.ai">MD.ai</a>. Our mission is to help improve medicine through AI.
+I'm co-founder and CEO of <a href="https://www.md.ai">MD.ai</a>, where we are building tools for medical AI annotation, training, validation, and deployment. We're a small (but growing!) team of doctors and engineers committed to helping enable people and organizations around the world build meaningful medical AI applications.
 
 ## About
 
-I love to build and experiment with deep learning. I also love to build stuff for the web. Check out my library for running trained Keras models in the browser: [Keras.js](https://github.com/transcranial/keras-js).
+I love experimenting with and building deep learning models. I also love to build stuff for the web. Check out [Keras.js](https://github.com/transcranial/keras-js), a library I built for running trained Keras models in the browser with GPU acceleration through WebGL, before Google released their excellent [Tensorflow.js](https://js.tensorflow.org/) library. I've participated in a number of [Kaggle](https://www.kaggle.com/transcranial) competitions.
 
-I've published articles on statistical physics, quantitative biology of cancer, and neural prosthetics. I'm generally extremely fascinated by neuroscience, especially as it relates to information encoding and processing. Some of the strategies evolution has come up with while constrained by the bounds of biology are truly mind-blowing.
+I have co-authored academic peer-reviewed articles on [mathematical modelling of cancer](https://www.nature.com/articles/6605214) and [brain-computer interfaces](https://ieeexplore.ieee.org/abstract/document/5705563/).
 
 I have an MD from Harvard Medical School. I studied engineering at the University of Washington and MIT.
 
